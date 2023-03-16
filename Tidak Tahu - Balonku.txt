@@ -3,10 +3,7 @@
 3. Rafly
 4. Zaky
 5. Afraayin
-<<<<<<< HEAD
-6. Dafin 
-=======
 6. Dafin 
 
-Balonku ada enamm
->>>>>>> 92d5795013f1ba55a75288ee297d42dcad2f60d8
+
+
